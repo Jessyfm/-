@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: TADAY1117 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\pc\AppData\Local\Temp\RSPB4BE.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /FR"Debug/" /Fp"Debug/TADAY1117.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\pc\Desktop\C++Project\TODAY1117\TADAY1117\Student_inf.cpp"
+]
+Creating command line "cl.exe @C:\Users\pc\AppData\Local\Temp\RSPB4BE.tmp" 
+Creating temporary file "C:\Users\pc\AppData\Local\Temp\RSPB4CF.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/TADAY1117.pdb" /debug /machine:I386 /out:"Debug/TADAY1117.exe" /pdbtype:sept 
+".\Debug\allclass.obj"
+".\Debug\ALLCODE.OBJ"
+".\Debug\Lesson_inf.obj"
+".\Debug\Student_inf.obj"
+".\Debug\Teacher_inf.obj"
+]
+Creating command line "link.exe @C:\Users\pc\AppData\Local\Temp\RSPB4CF.tmp"
+<h3>Output Window</h3>
+Compiling...
+Student_inf.cpp
+C:\Users\pc\Desktop\C++Project\TODAY1117\TADAY1117\Student_inf.cpp(19) : warning C4154: deletion of an array expression; conversion to pointer supplied
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/TADAY1117.bsc"  ".\Debug\allclass.sbr" ".\Debug\ALLCODE.SBR" ".\Debug\Lesson_inf.sbr" ".\Debug\Student_inf.sbr" ".\Debug\Teacher_inf.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+TADAY1117.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

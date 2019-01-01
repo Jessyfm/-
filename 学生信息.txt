@@ -1,0 +1,15 @@
+14
+0402160105   基础医学院   生物医学工程   是是是   18223854031   000000   tiancai@163.com    体测   NULL   NULL
+0402161212   基础医学院   生物医学工程  滚滚滚  18774854032   111111   fmin111@163.com   电路理论   NULL   NULL
+0402163437   基础医学院   生物医学工程   冯天才   18774854033   222222   fmintiancai@163.com   生物医学材料   NULL   NULL
+0201150205   物电学院   应用物理   李晨   18774854034   333333   lichen@163.com   NULL   NULL   NULL
+1203140210   物电学院   应用物理   黄晓明   18774854035   444444   baijingting@163.com   毛概   NULL   NULL
+3040160403   信息学院   计算机科学   周冬雨   18774854036   555555   zhoudongyu@163.com   NULL   NULL   NULL
+4042150404   外国语学院   英语   赵薇   18774854037   666666   zhaowei@163.com  毛概  电路理论   NULL
+2001021304   湘雅医学院   临床医学   Lisa   18774854038   aaaaaa   wuyanzu@163.com   NULL   NULL   NULL
+1243204020   数统学院   金融学   王宝强   18774854039   bbbbbb   luojin@163.com   NULL   NULL   NULL
+2014212926   化工学院   制药工程   徐峥   18774854040   cccccc   liuhaoran@163.com   电路理论   NULL   NULL
+0403920194   管理学院   工商管理   鲁迅   18774854041   dddddd   liuwen@163.com   NULL   NULL   NULL
+4030204953   法学院   法学   汪峰   18774854042   eeeeee   zhengshuang@163.com  生物医学材料   NULL   NULL
+0405930203   地信学院   地理信息科学   胡歌   18774854043   ffffff   huge@163.com   NULL   NULL   NULL
+3847489291   口腔医学院   口腔（5+3）   啊天   18774854044   gggggg   atian@163.com   NULL   NULL   NULL
